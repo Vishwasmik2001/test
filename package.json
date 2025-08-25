@@ -39,6 +39,12 @@
       "last 1 safari version"
     ]
   },
+  {
+  "overrides": {
+    "postcss": "8.4.31",
+    "postcss-safe-parser": "6.0.0"
+  }
+},
   "devDependencies": {
     "eslint": "^7.17.0",
     "eslint-config-airbnb": "^18.2.1",
