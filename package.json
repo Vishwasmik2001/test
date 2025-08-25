@@ -21,12 +21,11 @@
     "postinstall": "patch-package",
     "eject": "react-scripts eject"
   },
-  {
+  
   "overrides": {
     "postcss": "8.4.31",
     "postcss-safe-parser": "6.0.0"
-  }
-},
+  },
   "eslintConfig": {
     "extends": [
       "react-app",
